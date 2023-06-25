@@ -17,10 +17,10 @@ Objectives
 
 Model Used
 ***********************
-CNN Model 1
-CNN Model 2
-VGG16
-Resnet50
+- CNN Model 1
+- CNN Model 2
+- VGG16
+- Resnet50
 
 Conclusion
 ************************
